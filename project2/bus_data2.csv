@@ -1,0 +1,112 @@
+vehicle_id,last_updated,previous_stop,next_stop,origin_stop,destination_stop,lat,lon,route
+1715,2026-01-28T18:54:46-06:00,Campbell and Queensway,Unknown,Unknown,Unknown,40.138833,-88.277333,Not available
+2019,2026-01-28T18:54:46-06:00,Florida Ave. Residence Hall,Florida and Orchard,Illinois Terminal,Orchard Downs South Shelter,40.098083,-88.2189,TEAL East
+1727,2026-01-28T18:54:52-06:00,Round Barn Road,Unknown,Unknown,Unknown,40.115883,-88.2767,Not available
+2423,2026-01-28T18:54:40-06:00,Bradley at DSC,Bradley and McKinley,Parkland College,Urbana Walmart,40.1272,-88.265533,GREY East
+2364,2026-01-28T18:54:52-06:00,Transit Plaza,Fifth and Chalmers,Lincoln and Killarney,Pennsylvania Ave. Residence Hall,40.10765,-88.2289,ILLINI SOUTH
+2260,2026-01-28T18:54:46-06:00,Krannert Center,Illini Union,Orchard Downs South Shelter,Illinois Terminal,40.1087,-88.223883,TEAL West
+1605,2026-01-28T18:54:52-06:00,Crescent and Greendale,Crescent and William,Parkland College,Parkland College,40.100467,-88.28145,BROWN A
+1610,2026-01-28T18:54:46-06:00,Springfield and Country Fair Dr.,Springfield and Mattis,U.S. 150 and Dodson Dr.,Plastipak,40.1128,-88.280533,ORANGE West
+2434,2026-01-28T18:54:52-06:00,George Huff and Race,Race and McHenry,Orchard Downs South Shelter,Parkland College,40.090933,-88.21055,GREEN EVENING West
+1938,2026-01-28T18:54:43-06:00,University and Race,Broadway north of Water,Parkland College,Urbana Walmart,40.115533,-88.207567,GREY East
+2149,2026-01-28T18:54:43-06:00,Kirby and Oak,First and Gregory,Lot E-14,Lincoln Square,40.098017,-88.239117,GOLDHOPPER East
+1723,2026-01-28T18:54:52-06:00,Neil and Healey,Green and Locust,Round Barn Road,Orchard Downs South Shelter,40.1102,-88.2435,GREEN EVENING East
+1602,2026-01-28T18:53:43-06:00,Unknown,Unknown,Unknown,Unknown,40.11535,-88.242017,Not available
+2414,2026-01-28T18:54:43-06:00,State and Park,State and White,Illinois Terminal,Westfield and Lawndale,40.11685,-88.24685,GREEN WEST
+2431,2026-01-28T18:54:52-06:00,Windsor and Fields South,Windsor and Fields South,Mullikin and Curtis Meadow,Illinois Terminal,40.081567,-88.30895,NAVY East
+2429,2026-01-28T18:54:43-06:00,Campus Circle,Goodwin and Main,Lincoln and Killarney,Pennsylvania Ave. Residence Hall,40.116417,-88.222117,ILLINI South
+2439,2026-01-28T18:54:49-06:00,Kirby and Glenshire,Cobblefield and Englewood,Round Barn Road,Round Barn Road,40.098633,-88.310533,PINK A
+2105,2026-01-28T18:54:52-06:00,First and Stadium,First and Armory,Pennsylvania Ave. Residence Hall,Lincoln and Killarney,40.103883,-88.2386,ILLINI North
+2365,2026-01-28T18:54:46-06:00,Krannert Center,Lincoln and Illinois,Lincoln and Killarney,Pennsylvania Ave. Residence Hall,40.109,-88.22215,ILLINI South
+1725,2026-01-28T18:50:04-06:00,Unknown,Prospect and Interstate,Champaign Walmart,Illinois Terminal,40.148417,-88.255567,YELLOW SOUTH
+1611,2026-01-28T18:54:49-06:00,Main and Grove,Lincoln Square,Urbana Walmart,Lincoln Square,40.11275,-88.202617,GREY West
+2428,2026-01-28T18:54:43-06:00,Unknown,Logan and First,Illinois Terminal,Savoy Walmart,40.1154,-88.241317,YELLOW EVENING South
+1728,2026-01-28T18:54:52-06:00,Philo and Colorado,Florida and Philo,Champaign Walmart,Lincoln Square,40.097,-88.190667,RED Urbana
+1352,2026-01-28T18:54:52-06:00,Paddock Dr. East at Winfield Village Lot,Woodfield and Arbour Town Place,Savoy Walmart,Champaign Walmart,40.06897,-88.246167,YELLOW EVENING North
+2418,2026-01-28T18:54:40-06:00,Wright and Healey,Wright and Chalmers,Illinois Terminal,Round Barn Road,40.10855,-88.228917,BLUE West
+1349,2026-01-28T18:54:52-06:00,Green and Goodwin,Green and Busey,Parkland College,Florida and Philo,40.110453,-88.2265,GREENHOPPER East
+1835,2026-01-28T18:54:52-06:00,Green and Race,Green and Orchard,Washington and Lierman,Round Barn Road,40.110733,-88.211517,GREENHOPPER West
+2417,2026-01-28T18:54:46-06:00,Church and Elm,Church and New,Urbana Walmart,Parkland College,40.118283,-88.252183,GREY WEST
+2148,2026-01-28T18:54:43-06:00,Pennsylvania and Race,Florida and Pleasant Dr.,Champaign Walmart,Lincoln Square,40.098283,-88.209417,RED Urbana
+2433,2026-01-28T18:54:52-06:00,Springfield and Gregory St.,Unknown,Devonshire and Mayfair,Lincoln Square,40.112767,-88.220083,GOLD East
+2437,2026-01-28T18:52:25-06:00,Illinois Terminal,Unknown,Unknown,Unknown,40.115317,-88.241367,Not available
+2022,2026-01-28T18:54:49-06:00,Gregory at Library,Transit Plaza,Pennsylvania Ave. Residence Hall,Lincoln Square,40.105433,-88.229983,SILVER NORTH
+2104,2026-01-28T18:54:40-06:00,Unknown,Pennsylvania and Maryland Dr.,Pennsylvania Ave. Residence Hall,Lincoln and Killarney,40.099483,-88.220883,ILLINI North
+2145,2026-01-28T18:54:46-06:00,Bloomington and Highland,Bloomington and Hagan,Interstate and Research,Illinois Terminal,40.1322,-88.258217,LAVENDER South
+1348,2026-01-28T18:54:49-06:00,Springfield and Harvey,Green and Goodwin,Lincoln Square,Pennsylvania Ave. Residence Hall,40.112797,-88.223333,SILVER South
+2367,2026-01-28T18:52:13-06:00,Unknown,Pennsylvania and Maryland Dr.,Pennsylvania Ave. Residence Hall,Lincoln and Killarney,40.099483,-88.220617,ILLINI North
+2044,2026-01-28T18:54:43-06:00,Clayton and Irvine,Duncan and Lager,Parkland College,Wright and Healey,40.1219,-88.295633,BROWN B
+2017,2026-01-28T18:54:40-06:00,Transit Plaza,Goodwin at Materials Research,Pennsylvania Ave. Residence Hall,Lincoln and Killarney,40.108883,-88.22885,ILLINI North
+2043,2026-01-28T18:54:49-06:00,Country Squire and Kinch,Hunter and Lanore,Westfield and Lawndale,Main and Brady,40.102433,-88.183583,GREEN East
+1717,2026-01-28T18:54:40-06:00,Mattis and William,Mattis and Sangamon,Illinois Terminal,Round Barn Road,40.10455,-88.276683,BLUE West
+2018,2026-01-28T18:54:49-06:00,Fourth and Gregory,Gregory at Mumford Hall,Lincoln and Killarney,Pennsylvania Ave. Residence Hall,40.1041,-88.233083,ILLINI South
+2419,2026-01-28T18:54:52-06:00,Broadway and University,University and McCullough,Lincoln Square,Parkland College,40.116533,-88.2105,GREY EVENING West
+2432,2026-01-28T18:54:43-06:00,Parkview,First and Lake Park North,Champaign Walmart,Savoy Walmart,40.0689,-88.2409,YELLOW South
+2020,2026-01-28T18:54:31-06:00,Springfield and Harvey,Unknown,Lot E-14,Perkins and Eastern,40.112767,-88.220767,GOLD East
+1722,2026-01-28T18:54:43-06:00,Green and Gregory St.,Illini Union,Main and Brady,Westfield and Lawndale,40.110517,-88.223267,GREEN West
+1733,2026-01-28T18:54:49-06:00,Pennsylvania and Dorner,Lincoln and St. Marys Rd,Vet-Med,Vet-Med,40.0993,-88.221167,RAVEN N/A
+1719,2026-01-28T18:54:46-06:00,Springfield and Country Fair Dr.,Country Fair Dr. at Social Security,Plastipak,Illinois Terminal,40.1136,-88.2828,ORANGE East
+2436,2026-01-28T18:54:46-06:00,Neil and Garwood,Neil and Eureka,Champaign Walmart,Illini Union,40.127417,-88.243667,RED Urbana
+1730,2026-01-28T18:54:43-06:00,First and Gregory,Lot E-14,Illinois Terminal,Lot E-14,40.103417,-88.23865,YELLOWHOPPER South
+2430,2026-01-28T18:54:43-06:00,Fourth and Pennsylvania,Fourth and Gregory,Water Survey,University and Wright,40.101817,-88.233333,LINK North
+2203,2026-01-28T18:54:43-06:00,Broadmoor and Lynwood,Prospect and Ayrshire Dr.,Parkland College,Wright and Healey,40.092667,-88.258067,BROWN B
+2041,2026-01-28T18:54:52-06:00,Illinois Terminal,Walnut and University,Illinois Terminal,Champaign Walmart,40.115167,-88.242467,YELLOW EVENING North
+1603,2026-01-28T18:54:46-06:00,Round Barn Road,Unknown,Unknown,Unknown,40.11645,-88.210317,Not available
+2202,2026-01-28T18:54:46-06:00,Gregory at Library,Goodwin and Gregory,Lincoln Square,Pennsylvania Ave. Residence Hall,40.10415,-88.225833,SILVER South
+1724,2026-01-28T18:54:46-06:00,Armory and Wright,Wright and Healey,Lot E-14,Illinois Terminal,40.1083,-88.22885,YELLOWHOPPER North
+1836,2026-01-28T18:54:43-06:00,Gregory at Mumford Hall,Gregory at Ikenberry Commons,Lincoln Square,Lot E-14,40.1042,-88.228617,GOLDHOPPER West
+1715,2026-01-28T18:55:46-06:00,Campbell and Queensway,Unknown,Unknown,Unknown,40.134117,-88.2772,Not available
+2019,2026-01-28T18:55:46-06:00,Florida and Orchard,Race and Meadow,Illinois Terminal,Orchard Downs South Shelter,40.098217,-88.213833,TEAL East
+2423,2026-01-28T18:55:43-06:00,McKinley and Harvard,Vine and Willis,Parkland College,Urbana Walmart,40.12335,-88.262717,GREY East
+2364,2026-01-28T18:55:52-06:00,Wright and Chalmers,Fourth and Chalmers,Lincoln and Killarney,Pennsylvania Ave. Residence Hall,40.106833,-88.22925,ILLINI SOUTH
+2260,2026-01-28T18:55:52-06:00,Green and Goodwin,Wright and Healey,Orchard Downs South Shelter,Illinois Terminal,40.110533,-88.224917,TEAL West
+1605,2026-01-28T18:55:49-06:00,Crescent and Sangamon,Crescent and John,Parkland College,Parkland College,40.106217,-88.281283,BROWN A
+1610,2026-01-28T18:55:46-06:00,Springfield and Mattis,Round Barn Road,U.S. 150 and Dodson Dr.,Plastipak,40.111133,-88.276817,ORANGE West
+2434,2026-01-28T18:55:52-06:00,George Huff and Race,Race and McHenry,Orchard Downs South Shelter,Parkland College,40.090933,-88.21055,GREEN EVENING West
+1938,2026-01-28T18:55:43-06:00,Broadway north of Water,Main and Urbana,Parkland College,Urbana Walmart,40.113217,-88.207483,GREY East
+2149,2026-01-28T18:55:43-06:00,Kirby and Oak,First and Gregory,Lot E-14,Lincoln Square,40.101283,-88.238567,GOLDHOPPER East
+1723,2026-01-28T18:55:49-06:00,Green and Neil,Green and Second,Round Barn Road,Orchard Downs South Shelter,40.110167,-88.240683,GREEN EVENING East
+1602,2026-01-28T18:53:43-06:00,Unknown,Unknown,Unknown,Unknown,40.11535,-88.242017,Not available
+2414,2026-01-28T18:55:46-06:00,State and White,Springfield and Prairie,Illinois Terminal,Westfield and Lawndale,40.112767,-88.24685,GREEN WEST
+2431,2026-01-28T18:55:52-06:00,Stephens Family YMCA,Windsor and Valleybrook,Mullikin and Curtis Meadow,Illinois Terminal,40.083783,-88.308,NAVY East
+2429,2026-01-28T18:55:49-06:00,Goodwin and Clark,Goodwin at Ceramics Building,Lincoln and Killarney,Pennsylvania Ave. Residence Hall,40.114633,-88.22405,ILLINI South
+2439,2026-01-28T18:55:49-06:00,Cobblefield and Bridge Point Ln,Cobblefield and Glenn Brooke,Round Barn Road,Round Barn Road,40.100917,-88.309083,PINK A
+2105,2026-01-28T18:55:52-06:00,First and Gregory,First and Daniel,Pennsylvania Ave. Residence Hall,Lincoln and Killarney,40.105567,-88.238617,ILLINI North
+2365,2026-01-28T18:55:49-06:00,Krannert Center,Lincoln and Illinois,Lincoln and Killarney,Pennsylvania Ave. Residence Hall,40.109,-88.22215,ILLINI South
+1725,2026-01-28T18:50:04-06:00,Unknown,Prospect and Interstate,Champaign Walmart,Illinois Terminal,40.148417,-88.255567,YELLOW SOUTH
+1611,2026-01-28T18:55:52-06:00,Main and Urbana,Unknown,Urbana Walmart,Lincoln Square,40.111667,-88.20535,GREY West
+2428,2026-01-28T18:55:43-06:00,Illinois Terminal,White and Second,Illinois Terminal,Savoy Walmart,40.11535,-88.241917,YELLOW EVENING South
+1728,2026-01-28T18:55:52-06:00,Florida and Philo,Philo and Laurel,Champaign Walmart,Lincoln Square,40.0994,-88.190733,RED Urbana
+1352,2026-01-28T18:55:46-06:00,Paddock Dr. East at Winfield Village Lot,Woodfield and Arbour Town Place,Savoy Walmart,Champaign Walmart,40.06897,-88.246167,YELLOW EVENING North
+2418,2026-01-28T18:55:46-06:00,Transit Plaza,Sixth and Armory,Illinois Terminal,Round Barn Road,40.107283,-88.22895,BLUE West
+1349,2026-01-28T18:55:52-06:00,Green and Goodwin,Green and Busey,Parkland College,Florida and Philo,40.110517,-88.222833,GREENHOPPER East
+1835,2026-01-28T18:55:52-06:00,Green and Birch,Green and Busey,Washington and Lierman,Round Barn Road,40.110683,-88.214367,GREENHOPPER West
+2417,2026-01-28T18:55:46-06:00,Church and Prospect,Prospect and Vine,Urbana Walmart,Parkland College,40.1188,-88.257817,GREY WEST
+2148,2026-01-28T18:55:43-06:00,Florida and Vine,Florida and Anderson,Champaign Walmart,Lincoln Square,40.098317,-88.204283,RED Urbana
+2433,2026-01-28T18:55:52-06:00,Unknown,Springfield and Birch,Devonshire and Mayfair,Lincoln Square,40.112767,-88.217283,GOLD East
+2437,2026-01-28T18:52:25-06:00,Illinois Terminal,Unknown,Unknown,Unknown,40.115317,-88.241367,Not available
+2022,2026-01-28T18:55:49-06:00,Gregory at Library,Transit Plaza,Pennsylvania Ave. Residence Hall,Lincoln Square,40.1059,-88.228783,SILVER NORTH
+2104,2026-01-28T18:55:46-06:00,Unknown,Pennsylvania and Maryland Dr.,Pennsylvania Ave. Residence Hall,Lincoln and Killarney,40.099483,-88.220883,ILLINI North
+2145,2026-01-28T18:55:49-06:00,Bloomington Rd. at Pioneer Plaza,Harris and Bloomington,Interstate and Research,Illinois Terminal,40.130783,-88.254883,LAVENDER South
+1348,2026-01-28T18:55:37-06:00,Springfield and Harvey,Green and Goodwin,Lincoln Square,Pennsylvania Ave. Residence Hall,40.11229,-88.224,SILVER South
+2367,2026-01-28T18:52:13-06:00,Unknown,Pennsylvania and Maryland Dr.,Pennsylvania Ave. Residence Hall,Lincoln and Killarney,40.099483,-88.220617,ILLINI North
+2044,2026-01-28T18:55:43-06:00,Duncan and Lager,Ginger Creek Apts.,Parkland College,Wright and Healey,40.11395,-88.2955,BROWN B
+2017,2026-01-28T18:55:43-06:00,Transit Plaza,Goodwin at Materials Research,Pennsylvania Ave. Residence Hall,Lincoln and Killarney,40.110267,-88.2275,ILLINI North
+2043,2026-01-28T18:55:49-06:00,Hunter and Lanore,Washington and Lierman,Westfield and Lawndale,Main and Brady,40.103833,-88.1872,GREEN East
+1717,2026-01-28T18:55:43-06:00,Mattis and Sangamon,Kirby and Mattis,Illinois Terminal,Round Barn Road,40.1005,-88.276633,BLUE West
+2018,2026-01-28T18:55:49-06:00,Fourth and Gregory,Gregory at Mumford Hall,Lincoln and Killarney,Pennsylvania Ave. Residence Hall,40.104117,-88.228633,ILLINI South
+2419,2026-01-28T18:55:52-06:00,University and McCullough,Coler and Church,Lincoln Square,Parkland College,40.11795,-88.213,GREY EVENING West
+2432,2026-01-28T18:55:43-06:00,Parkview,First and Lake Park North,Champaign Walmart,Savoy Walmart,40.0667,-88.23875,YELLOW South
+2020,2026-01-28T18:55:46-06:00,Unknown,Springfield and Birch,Lot E-14,Perkins and Eastern,40.112767,-88.217133,GOLD East
+1722,2026-01-28T18:55:52-06:00,Green and Goodwin,Green and Sixth,Main and Brady,Westfield and Lawndale,40.110483,-88.2262,GREEN West
+1733,2026-01-28T18:55:49-06:00,Florida Ave. Residence Hall,Lincoln at Japan House,Vet-Med,Vet-Med,40.098967,-88.21935,RAVEN N/A
+1719,2026-01-28T18:55:49-06:00,Country Fair Dr. at Social Security,University and Fair,Plastipak,Illinois Terminal,40.116433,-88.2777,ORANGE East
+2436,2026-01-28T18:55:46-06:00,Neil and North,Neil and Washington,Champaign Walmart,Illini Union,40.123233,-88.243633,RED Urbana
+1730,2026-01-28T18:55:43-06:00,First and Stadium,Unknown,Illinois Terminal,Lot E-14,40.1002,-88.2386,YELLOWHOPPER South
+2430,2026-01-28T18:55:46-06:00,Fourth and Peabody,Fifth and Armory,Water Survey,University and Wright,40.103567,-88.233383,LINK North
+2203,2026-01-28T18:55:43-06:00,Prospect and Ayrshire Dr.,Devonshire and Peach,Parkland College,Wright and Healey,40.08965,-88.256383,BROWN B
+2041,2026-01-28T18:55:40-06:00,Main and Walnut,Walnut and Columbia,Illinois Terminal,Champaign Walmart,40.1193,-88.241433,YELLOW EVENING North
+1603,2026-01-28T18:55:49-06:00,Round Barn Road,Unknown,Unknown,Unknown,40.116267,-88.20225,Not available
+2202,2026-01-28T18:55:46-06:00,Goodwin and Gregory,Plant Sciences Lab,Lincoln Square,Pennsylvania Ave. Residence Hall,40.10415,-88.222333,SILVER South
+1724,2026-01-28T18:55:43-06:00,Transit Plaza,White and Wright,Lot E-14,Illinois Terminal,40.108967,-88.228883,YELLOWHOPPER North
+1836,2026-01-28T18:55:43-06:00,Gregory at Library,First and Gregory,Lincoln Square,Lot E-14,40.104167,-88.231267,GOLDHOPPER West
